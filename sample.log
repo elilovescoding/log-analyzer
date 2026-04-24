@@ -1,0 +1,10 @@
+2026-04-24 09:01:12 INFO  User alice logged in
+2026-04-24 09:02:45 WARN  Slow response from database
+2026-04-24 09:03:10 ERROR Failed to connect to mail server
+2026-04-24 09:04:55 INFO  Failed login attempt for user bob
+2026-04-24 09:05:20 INFO  User alice logged out
+2026-04-24 09:06:30 ERROR Disk space below 10%
+2026-04-24 09:07:01 INFO  Login failed for user charlie
+2026-04-24 09:08:15 INFO  User dave logged in
+2026-04-24 09:09:42 ERROR Unexpected null value in payment processor
+2026-04-24 09:10:00 INFO  Backup completed successfully
